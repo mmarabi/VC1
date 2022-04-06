@@ -1,4 +1,3 @@
 # VC1
 
-federico sei un disabile
-dai scherzo
+ciao questa è la mia riga -MM
